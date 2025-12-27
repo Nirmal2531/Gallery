@@ -23,6 +23,7 @@ Validate the HTML and CSS code.
 Publish the website in the given URL.
 
 # PROGRAM :
+```
 {% load static %}
 <!DOCTYPE html>
 <html lang="en">
@@ -161,6 +162,7 @@ function prevImg() {
 </script>
 </body>
 </html>
+```
 # OUTPUT:
 <img width="1024" height="578" alt="image" src="https://github.com/user-attachments/assets/cf73e784-af5f-488c-abb7-7bae3882d428" />
 
